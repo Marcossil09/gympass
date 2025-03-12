@@ -18,7 +18,7 @@ app.register(fastifySwagger, {
     info: {
       title: "Fastify API",
       version: "1.0.0",
-      description: "API de exemplo com Fastify e Swagger",
+      description: "API de exemplo com Fastify e Swagger asdadas",
     },
     servers: [{ url: "http://localhost:3333" }],
     components: {
